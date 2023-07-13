@@ -17,7 +17,7 @@ router.get("/", getAllItem);
 
 router.get("/:id", getItemById);
 
-router.put("/:id", updateItem);
+router.put("/:id", validateItem, updateItem);
 
 router.delete("/:id", deleteItem);
 
