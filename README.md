@@ -1,4 +1,4 @@
-# CONSERVA CHALLENGE
+# CRUD-NODEJS
 
 This is a sample project that demonstrates how to set up and run a REST API using Node.js, Typescript, ExpressJS, Sequelize, Joi, PostgreSQL, and Jest.
 
