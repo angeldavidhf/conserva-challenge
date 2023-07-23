@@ -7,7 +7,7 @@ This is a sample project that demonstrates how to set up and run a REST API usin
 Clone the project
 
 ```bash
-  git clone https://github.com/Natalonsop/alternovaShop.git
+  git clone https://github.com/angeldavidhf/alternovaShop.git
 ```
 
 ### Configure the database
